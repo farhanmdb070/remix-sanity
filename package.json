@@ -1,8 +1,8 @@
 {
   "name": "remix-blog",
   "private": true,
-  "description": "",
-  "license": "",
+  "description": "This simple stack includes everything you need to run Remix with MongoDB. It includes examples for basic document fetches, as well as a form to add new entries.",
+  "license": "ISC",
   "sideEffects": false,
   "scripts": {
     "build": "npm run build:css && remix build",
@@ -41,5 +41,9 @@
   },
   "prisma": {
     "seed": "ts-node prisma/seed.ts"
-  }
+  },
+  "version": "1.0.0",
+  "main": "remix.config.js",
+  "keywords": [],
+  "author": ""
 }

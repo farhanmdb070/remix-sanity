@@ -32,3 +32,4 @@ npm run dev
 ```
 
 Open your browser on [http://localhost:3000](http://localhost:3000), and start exploring your new application.
+# remix-sanity
